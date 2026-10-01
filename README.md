@@ -4,7 +4,7 @@ A financial-news sentiment classifier (TF-IDF + Logistic Regression) trained on 
 
 Originally built as a final project for CSC 371 (Introduction to NLP).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/stock-news-sentiment-analyzer/blob/main/notebooks/sentiment_analyzer.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrew-lynch3/stock-news-sentiment-analyzer/blob/main/Notebooks/Sentiment_Analyzer.ipynb)
 
 ## Summary
 
